@@ -26,6 +26,13 @@ The work here emphasizes:
 - Qiskit
 - NumPy
 - Jupyter
+  
+# References
+
+- Nielsen, M. A., & Chuang, I. L. — Quantum Computation and Quantum Information
+- Qiskit Documentation
+- IBM Quantum Experience materials
+
 
 ## Notes
 These are not tutorials — they are **experiments and study artifacts**
